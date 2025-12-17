@@ -1,4 +1,4 @@
-dir = "/srv/mirror"
+dir = "/vos-apt-data/mirrors/debian"
 max_conns = 20
 
 [mirror.vanilla-testing]
